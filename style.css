@@ -1,0 +1,16 @@
+.jumbotron{
+    height: 450px;
+}
+.display-4{
+    font-family: 'Playfair Display', serif;
+    text-align: center; 
+    padding-top: 60px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-family: 'Slabo 27px', serif;
+ text-align: center;
+}
+#button1{
+    text-align: center;
+}
